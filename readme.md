@@ -26,4 +26,4 @@ Web crawling | Selenium, Python
 Database management | MySQL, Python
 Workflow design | Apache Airflow
 
-
+![Screenshot](screenshot.png)
